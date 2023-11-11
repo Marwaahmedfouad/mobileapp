@@ -1,0 +1,70 @@
+@font-face {
+    font-family: 'Janna LT';
+    src: url('../assets/Janna\ LT\ Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+
+
+.textStyleUser {
+    font-size: 10px !important;
+    font-weight: 400  !important;
+    color: #636569  !important;
+    font-family: 'Janna LT'  !important;
+    padding-right: 30px;
+    background-image: url(../assets/images/User.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 20px;
+    border: none;
+    box-shadow: 1px 1px 10px rgb(224, 238, 243);
+    height: 42px;
+
+
+
+}
+
+.textStylePassword {
+    font-size: 10px  !important;
+    color: #636569  !important;;
+    font-family: 'Janna LT'  !important;
+    font-weight: 400  !important;
+    padding-right: 30px;
+    background-image: url(../assets/images/icon.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 20px;
+    border: none;
+    box-shadow: 1px 1px 10px rgb(224, 238, 243);
+    height: 42px;
+
+
+}
+
+.btnStyle {
+    background-image: linear-gradient(to right #426829 88.5%, #255454 73%);
+    padding: 10px;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Janna LT';
+
+}
+
+.imgStyle {
+    text-align: center;
+    margin: auto;
+    /* background: red; */
+    padding-top:100px !important ;
+}
+.styleStyle{
+padding-top:15% ;    
+}
+#rememberMe{
+    box-shadow: 2px 3px 9px rgb(162, 176, 179);
+    border: none;
+
+}

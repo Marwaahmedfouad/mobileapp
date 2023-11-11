@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'Janna LT';
+    src: url('../assets/Janna\ LT\ Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+.backgroundStyle{
+    background-image: url('../assets/images/backFirst1.png');
+    background-size: 100% 100vh;
+    background-position: center;
+    width: 100% ;
+}
+.backgroundStyle {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    justify-content: center; 
+    height: 100vh; 
+  }
+.textStylefirst{
+    text-align: center;
+    font-weight: 700 !important   ;
+    font-size: 28px !important;
+    font-family: 'Janna LT' !important  ;
+    color: white !important;
+    padding-bottom: 300px !important;
+}
+
+.lineStylefirst{
+    width:100%;
+    height:5px;
+    background: #C8A791;
+}
+

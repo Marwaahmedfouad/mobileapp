@@ -1,0 +1,70 @@
+body {}
+
+
+body {
+    background-image: url("../assets/images/Group\ 20875.png");
+    background-repeat: no-repeat;
+    background-color: #cccccc;
+    background-position: right top;
+    /* background: red !important; */
+
+  }
+
+
+.starStyle {
+    color: red;
+}
+
+.droupdawnStyle {
+    padding:2%;
+    border-radius: 7px;
+    box-shadow: 3px 1px 9px 1px #e9e6e6 ;
+    border: none !important;
+    width: 100%;
+    color: #636569    ;
+}
+.custom-select {
+    /* padding-left: 30px;  */
+}
+
+.home-container {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 20px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.form-title {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.border-style {
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+}
+
+.btnStyle {
+    background: #4A7A39;
+    border-radius: 7px;
+    padding: 7px 25px;
+    color: white;
+    /* border: none; */
+}
+
+.borderStyle {
+    width: 55%;
+    background: #C8A791;
+    height: 10px;
+    margin: auto;
+}
+.fileStyle{
+    border:#4A7A39 dotted 2px ;
+    background-image: url(../assets/images/Vector.png);
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    background-position: center;
+
+}
