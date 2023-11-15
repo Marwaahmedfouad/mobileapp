@@ -3,6 +3,8 @@ import Header from './pages/Header';
 import Login from './pages/Login';
 import First from './pages/First';
 import router from './Router';
+import { BrowserRouter as Router } from 'react-router-dom';
+
 import './App.css';
 
 function App() {
@@ -13,10 +15,14 @@ function App() {
 
 
 
-{/* 
+
 			<div className="">
 				<RouterProvider router={router} />
-			</div>  */}
+			</div> 
+
+
+
+
 
 
 			 {/* <section>
@@ -36,3 +42,6 @@ function App() {
 }
 
 export default App;
+
+
+
