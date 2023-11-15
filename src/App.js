@@ -13,10 +13,10 @@ function App() {
 
 
 
-
+{/* 
 			<div className="">
 				<RouterProvider router={router} />
-			</div> 
+			</div>  */}
 
 
 			 {/* <section>
