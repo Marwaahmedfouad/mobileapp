@@ -149,7 +149,7 @@ const Root = () => {
 
 
                     <div>
-                        <div className="col d-flex flex-column " >
+                        <div className="col text-center d-flex flex-column " >
                             <Link to="/Balagat">البلاغات
                                 <div> <img src={Chatsg} alt="Image" width="40%" /></div>
                             </Link>
@@ -186,6 +186,3 @@ const Root = () => {
 }
 
 export default Root
-
-
-
